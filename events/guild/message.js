@@ -41,7 +41,7 @@ module.exports = async (client, message) => {
    return message.channel.send({
     embed: {
      color: 16734039,
-     description: "❌ | That command does not exist, Take a look at `" + `${prefix}` + "help`!",
+     description: "❌ | That command does not exist, Take a look at `" + `${prefix}`"help`!",
     },
    });
   }

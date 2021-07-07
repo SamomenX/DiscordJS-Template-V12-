@@ -37,7 +37,7 @@ module.exports = {
      })
     );
   } catch (err) {
-   message.lineReply({
+   message.channel.send({
     embed: {
      color: 16734039,
      description: "Something went wrong... :cry:",

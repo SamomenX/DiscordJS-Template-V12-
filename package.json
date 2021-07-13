@@ -1,4 +1,21 @@
 {
+  "name": "DiscordJS-Template",
+  "version": "1.0.0",
+  "description": "DiscordJS Template :>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodSamomen/DiscordJS-Template.git"
+  },
+  "author": "GodSamomen",
+  "bugs": {
+    "url": "https://github.com/GodSamomen/DiscordJS-Template/issues"
+  },
+  "homepage": "https://github.com/GodSamomen/DiscordJS-Template",
+{
   "dependencies": {
     "ascii-table": "^0.0.9",
     "discord.js": "^12.5.3",

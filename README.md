@@ -31,5 +31,5 @@
 
 # do you need support :')
 **If you couldn't do it or if you encounter any errors, you can contact me.**
-- [Discord](https://discord.com/invite/wR4Nwk22jg)
+- [Discord](https://discord.com/invite/someones)
 - [Telegram](https://t.me/samomenx)
